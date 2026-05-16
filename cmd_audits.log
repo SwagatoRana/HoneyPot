@@ -1,0 +1,46 @@
+127.0.0.1, username, password
+127.0.0.1, username, password
+Command b'ls'executed by 127.0.0.1
+Command b'cat whatisthis.conf'executed by 127.0.0.1
+Command b'n\x7f\x7f\x7f\x7f\x7fdf\x7f\x7f\x7f\x7f'executed by 127.0.0.1
+Command b'bruh'executed by 127.0.0.1
+127.0.0.1, username, bruh
+127.0.0.1, username, password
+127.0.0.1, username, password
+Command b'cd'executed by 127.0.0.1
+Command b'ls'executed by 127.0.0.1
+Command b'pwd'executed by 127.0.0.1
+Command b'dkjfladjfldjflasdifjilsjff'executed by 127.0.0.1
+127.0.0.1, username, jdkfjd
+127.0.0.1, username, password
+127.0.0.1, username, password
+127.0.0.1, username, password
+Command b'ls'executed by 127.0.0.1
+127.0.0.1, username, password
+Command b'ls'executed by 127.0.0.1
+127.0.0.1, username, password
+127.0.0.1, username, password
+127.0.0.1, username, password
+127.0.0.1, username, password
+127.0.0.1, username, password
+Command b'\x03exit'executed by 127.0.0.1
+127.0.0.1, hi, bruh
+Command b'dkfjdlkf'executed by 127.0.0.1
+Command b'ls'executed by 127.0.0.1
+127.0.0.1, hi, bruh
+127.0.0.1, hi, nigga
+Command b'brtuh\x7f\x7f\x7f\x7fdfkjaldkjl'executed by 127.0.0.1
+Command b'brochacho'executed by 127.0.0.1
+127.0.0.1, hi, bruh
+Command b'bruh'executed by 127.0.0.1
+Command b'ls'executed by 127.0.0.1
+127.0.0.1, bruh, bruh
+127.0.0.1, hi, hi
+Command b'ls'executed by 127.0.0.1
+Command b'j\x7f'executed by 127.0.0.1
+Command b'exir'executed by 127.0.0.1
+127.0.0.1, a, h
+127.0.0.1, bruh, hi
+127.0.0.1, bruh, bruh
+Command b'ls'executed by 127.0.0.1
+Command b'cat whatisthis.conf'executed by 127.0.0.1
